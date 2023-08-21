@@ -1,5 +1,7 @@
 # Workday-Scheduler
 
+![Workday-Scheduler Use and Storage](./Assets/Workday-Scheduler-Image.png)
+
 ## Overview
 
 This a simple web application designed to help users manage their workday schedule by providing a user-friendly interface to schedule tasks and events throughout the day. The application displays time blocks corresponding to standard business hours, allows users to enter and save events, and indicates whether each event is in the past, present, or future.
